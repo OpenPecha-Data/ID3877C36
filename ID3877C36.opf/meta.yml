@@ -1,0 +1,25 @@
+id: ID3877C36
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:01:08.563230'
+last_modified: '2022-05-30T22:01:08.563235'
+parser: null
+source_metadata:
+  title: Katok Dampa Deshek Series
+  language: fr
+  description: 'Texts by Katok Dampa Deshek (kaḥ thog dam pa bde gshegs, 1122–1192),
+    the founder of Katok Monastery:'
+  volume:
+    fA74B:
+      title: The Last Testament of Katok Dampa Deshek
+      base_file: fA74B.txt
+      order: 1
+      parent: Last Testament
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
